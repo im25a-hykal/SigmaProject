@@ -1,1 +1,1 @@
-
+#alle variabeln
